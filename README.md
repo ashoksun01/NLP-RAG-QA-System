@@ -1,4 +1,4 @@
-# NLP-RAG-QA-System
+# RAG System for Question Answering Tasks Related to NLP & GenAI
 
 ## Project Summary
 This project explores the implementation of a Retrieval Augmented Generation (RAG) system designed to enhance question answering capabilities for two distinct user groups within a tech company — the engineering team and the marketing team. The system utilizes a RAG approach to generate contextually accurate and relevant answers by retrieving and leveraging document content before generating text responses.
